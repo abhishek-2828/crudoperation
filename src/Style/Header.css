@@ -1,0 +1,7 @@
+.header{
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    background-image: linear-gradient(to right top, #313131, #2f2f2f, #2d2d2d, #2b2b2b, #292929);
+    color: white;
+}
